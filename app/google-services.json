@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445185109740",
+    "project_id": "stockmate-189f8",
+    "storage_bucket": "stockmate-189f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445185109740:android:bdbdeeb22a27ce9644bfc9",
+        "android_client_info": {
+          "package_name": "com.example.stockmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmaTUcm5yCKzQlQ0EtiI57akP59ZlL1TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
